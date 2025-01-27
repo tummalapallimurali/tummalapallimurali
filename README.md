@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**tummalapallimurali/tummalapallimurali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and driven Data Scientist, Research Scientist with a strong foundation in Python, Machine Learning, Data Analysis, Deep Learning, Operations Research.
 
-Here are some ideas to get you started:
+I'm currently focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building predictive models, Deep Learning, Neural Network Algorithms, Graph Neural Networks.
+Fine-Tuning applications for real world applications and datasets using Transformer, BERT models.
+Systems Modelling.
+I'm always eager to:
+
+Contribute to impactful data-driven solutions, New generative models using neural networks, Explore on Transformers, BERT models.
+Let's connect!
+
+www.linkedin.com/in/muralitummalapalli
+Fun fact about me I like reading papers published by fellow researchers and applying the methodology in applications
+
+
